@@ -24,7 +24,7 @@ Example invocation :
 
 ```
 cd target
-java -cp "TestPNML-1.0.0-SNAPSHOT.jar;lib/*" fr.test.Testit ../model.pnml
+java -cp "TestPNML-1.0.0-SNAPSHOT.jar;lib/*" fr.test.Testit ../sample/model.pnml
 ```
 
 So basically add all the jar in the lib folder to the classpath.
