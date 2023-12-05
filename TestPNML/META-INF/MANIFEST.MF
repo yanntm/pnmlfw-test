@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TestPNML
+Bundle-SymbolicName: TestPNML
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: TestPNML
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Require-Bundle: fr.lip6.pnml.framework.coremodel;bundle-version="2.2.17",
+ fr.lip6.pnml.framework.hlpn;bundle-version="2.2.17",
+ fr.lip6.pnml.framework.pthlpng;bundle-version="2.2.17",
+ fr.lip6.pnml.framework.ptnet;bundle-version="2.2.17",
+ fr.lip6.pnml.framework.symmetricnet;bundle-version="2.2.17",
+ fr.lip6.pnml.framework.utils;bundle-version="2.2.17",
+ org.apache.ws.commons.axiom.axiom-api;bundle-version="1.3.0",
+ org.apache.ws.commons.axiom.axiom-impl;bundle-version="1.3.0",
+ org.apache.ws.commons.axiom.axiom-dom;bundle-version="1.3.0",
+ javax.activation;bundle-version="1.1.0"
